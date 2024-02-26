@@ -1,0 +1,21 @@
+div.box{
+    height: 800px;
+    width: 1200px;
+    border: 10px solid gray;
+    
+}
+div.row{
+    height: 100px;
+    width:1200px;
+    display: flex;
+}
+div.black{
+    background-color: black;
+    height: 100px;
+    width: 150px;
+}
+div.white{
+    background-color: white;
+    height: 100px;
+    width: 150px;
+}
